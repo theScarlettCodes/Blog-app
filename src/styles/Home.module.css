@@ -1,0 +1,35 @@
+/* TOP BACKGROUND IMAGE */
+.topBackground {
+    background-image: url('../images/top_banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    z-index: -10;
+  }
+  
+  /* BOTTOM BACKGROUND IMAGE */
+  
+  .bottomBackground {
+    background-image: url('../images/banner_flowervase.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    z-index: -10;
+  }
+  
+  .alignRight {
+   right: 0;
+  }
+  
+  /* ABOUT CSS STYLES */
+     .aboutBackground {
+      background-image: url('../images/CupFeatured.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 50vh;
+     }
+  
+     .aboutBodybackground {
+      background-image: url('../images/aboutBg.png');
+     
+     }
